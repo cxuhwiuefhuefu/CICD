@@ -2,7 +2,7 @@
  * @Author: Sunny
  * @Date: 2022-11-18 11:07:25
  * @LastEditors: Suuny
- * @LastEditTime: 2022-11-18 14:25:42
+ * @LastEditTime: 2022-11-18 16:22:03
  * @Description: 
  * @FilePath: /ci/src/App.vue
 -->
@@ -14,7 +14,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <div>
-    哈哈哈
+    哈哈哈---
     <a href="https://vitejs.dev" target="_blank">
       <img src="/vite.svg" class="logo" alt="Vite logo" />
     </a>
